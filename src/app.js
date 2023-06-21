@@ -32,9 +32,9 @@ function generateExcuse() {
   let verb = [
     "ate my",
     "kicked my",
-    "danced on my",
+    "danced with my",
     "abducted my",
-    "seduced my",
+    "cooked my",
     "became besties with my",
     "stole my",
     "unfroze my",
@@ -47,12 +47,12 @@ function generateExcuse() {
     "math teacher",
     "frozen taco",
     "brand new laptop",
-    "bowl of purple ants",
+    "crazy smily purple cat",
     "baby elephant",
     "little brother",
     "penguin butler",
-    "teaspoon",
-    "bigfoot neighbor"
+    "distant cousin",
+    "next-door neighbor"
   ];
   let place = [
     "inside my livingroom",
@@ -64,7 +64,7 @@ function generateExcuse() {
     "at McDonald's",
     "while eating cheese",
     "in my backyard",
-    "in the 90s"
+    "outside a rock concert"
   ];
 
   let proIndx = Math.floor(Math.random() * pronoun.length);
